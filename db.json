@@ -7,27 +7,130 @@
   "camera": [
     {
       "id": 1,
-      "label": "xxx"
+      "label": "カメラxxx"
+    },
+    {
+      "id": 2,
+      "label": "カメラxxx"
+    },
+    {
+      "id": 3,
+      "label": "カメラxxx"
+    },
+    {
+      "id": 4,
+      "label": "カメラxxx"
+    },
+    {
+      "id": 5,
+      "label": "カメラxxx"
+    },
+    {
+      "id": 6,
+      "label": "カメラxxx"
+    },
+    {
+      "id": 7,
+      "label": "カメラxxx"
     }
   ],
   "regi": [
     {
       "id": 1,
-      "label": "xxx",
+      "label": "レジxxx",
       "storeCode": 1
+    },
+    {
+      "id": 1,
+      "label": "レジxxx",
+      "storeCode": 1
+    },
+    {
+      "id": 2,
+      "label": "レジxxx",
+      "storeCode": 1
+    },
+    {
+      "id": 3,
+      "label": "レジxxx",
+      "storeCode": 1
+    },
+    {
+      "id": 4,
+      "label": "レジxxx",
+      "storeCode": 1
+    },
+    {
+      "id": 5,
+      "label": "レジxxx",
+      "storeCode": 2
+    },
+    {
+      "id": 6,
+      "label": "レジxxx",
+      "storeCode": 2
+    },
+    {
+      "id": 7,
+      "label": "レジxxx",
+      "storeCode": 3
     }
   ],
   "store": [
     {
       "id": 1,
-      "label": "xxx"
+      "label": "店舗xxx"
+    },
+    {
+      "id": 2,
+      "label": "店舗xxx"
+    },
+    {
+      "id": 3,
+      "label": "店舗xxx"
+    },
+    {
+      "id": 4,
+      "label": "店舗xxx"
+    },
+    {
+      "id": 5,
+      "label": "店舗xxx"
+    },
+    {
+      "id": 6,
+      "label": "店舗xxx"
+    },
+    {
+      "id": 7,
+      "label": "店舗xxx"
     }
   ],
   "user": [
     {
       "id": 1,
-      "label": "xxx",
+      "label": "ユーザxxx",
       "storeCode": 1
+    },
+    {
+      "id": 2,
+      "label": "ユーザxxx",
+      "storeCode": 1
+    },
+    {
+      "id": 3,
+      "label": "ユーザxxx",
+      "storeCode": 2
+    },
+    {
+      "id": 4,
+      "label": "ユーザxxx",
+      "storeCode": 2
+    },
+    {
+      "id": 5,
+      "label": "ユーザxxx",
+      "storeCode": 3
     }
   ]
 }
