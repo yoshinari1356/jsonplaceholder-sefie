@@ -16,7 +16,6 @@ https://my-json-server.typicode.com/yoshinari1356/jsonplaceholder-sefie/regi
 
 https://my-json-server.typicode.com/yoshinari1356/jsonplaceholder-sefie/regi/1
 
-https://my-json-server.typicode.com/yoshinari1356/jsonplaceholder-sefie/posts
+https://my-json-server.typicode.com/yoshinari1356/jsonplaceholder-sefie/search
 
-https://my-json-server.typicode.com/yoshinari1356/jsonplaceholder-sefie/posts/1
-
+https://my-json-server.typicode.com/yoshinari1356/jsonplaceholder-sefie/search/1
