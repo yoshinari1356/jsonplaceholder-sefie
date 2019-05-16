@@ -1,8 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "search": [
+    {
+      "totalCount": 1,
+      "eventId": 1,
+      "timestamp": "2019-05-15T01:01:01.000Z",
+      "orderInfo": {
+        "voucharNumber": 1,
+        "userId": 1,
+        "storeCode": 1,
+        "money": {
+          "payment": "1000",
+          "card": "2000",
+          "point": "3000",
+          "other": "4000"
+        }
+      },
+      "media": {
+        "thumbnailUri": "http://xxxxx.com/thumbnail.mp4",
+        "videoUri": "http://xxxxx.com/video.mp4"
+      }
+    }
   ],
   "camera": [
     {
