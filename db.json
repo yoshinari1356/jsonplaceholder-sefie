@@ -1,6 +1,7 @@
 {
   "search": [
     {
+      "id": 1,
       "totalCount": 1,
       "eventId": 1,
       "timestamp": "2019-05-15T01:01:01.000Z",
@@ -21,6 +22,7 @@
       }
     },
     {
+      "id": 2,
       "totalCount": 2,
       "eventId": 2,
       "timestamp": "2019-05-15T01:01:01.000Z",
@@ -41,6 +43,7 @@
       }
     },
     {
+      "id": 3,
       "totalCount": 3,
       "eventId": 3,
       "timestamp": "2019-05-15T01:01:01.000Z",
@@ -61,6 +64,7 @@
       }
     },
     {
+      "id": 4,
       "totalCount": 4,
       "eventId": 4,
       "timestamp": "2019-05-15T01:01:01.000Z",
@@ -81,6 +85,7 @@
       }
     },
     {
+      "id": 5,
       "totalCount": 5,
       "eventId": 5,
       "timestamp": "2019-05-15T01:01:01.000Z",
@@ -101,6 +106,7 @@
       }
     },
     {
+      "id": 6,
       "totalCount": 6,
       "eventId": 6,
       "timestamp": "2019-05-15T01:01:01.000Z",
@@ -121,6 +127,7 @@
       }
     },
     {
+      "id": 7,
       "totalCount": 7,
       "eventId": 7,
       "timestamp": "2019-05-15T01:01:01.000Z",
