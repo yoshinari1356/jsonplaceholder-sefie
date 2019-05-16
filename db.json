@@ -4,13 +4,6 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "camera": [
     {
       "id": 1,
@@ -24,12 +17,6 @@
       "storeCode": 1
     }
   ],
-  "event": [
-    {
-      "id": 1,
-      "label": "xxx"
-    }
-  ],
   "store": [
     {
       "id": 1,
@@ -41,12 +28,6 @@
       "id": 1,
       "label": "xxx",
       "storeCode": 1
-    }
-  ],
-  "payment-status": [
-    {
-      "id": 1,
-      "label": "xxx"
     }
   ]
 }
