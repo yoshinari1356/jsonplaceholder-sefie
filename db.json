@@ -11,56 +11,42 @@
   "profile": {
     "name": "typicode"
   },
-  "master": {
-    "camera": {
-      "list": [
-        {
-          "id": 1,
-          "label": "xxx"
-        }
-      ]
-    },
-    "regi": {
-      "list": [
-        {
-          "id": 1,
-          "label": "xxx",
-          "storeCode": 1
-        }
-      ]
-    },
-    "event": {
-      "list": [
-        {
-          "id": 1,
-          "label": "xxx"
-        }
-      ]
-    },
-    "store": {
-      "list": [
-        {
-          "id": 1,
-          "label": "xxx"
-        }
-      ]
-    },
-    "user": {
-      "list": [
-        {
-          "id": 1,
-          "label": "xxx",
-          "storeCode": 1
-        }
-      ]
-    },
-    "payment-status": {
-      "list": [
-        {
-          "id": 1,
-          "label": "xxx"
-        }
-      ]
+  "camera": [
+    {
+      "id": 1,
+      "label": "xxx"
     }
-  }
+  ],
+  "regi": [
+    {
+      "id": 1,
+      "label": "xxx",
+      "storeCode": 1
+    }
+  ],
+  "event": [
+    {
+      "id": 1,
+      "label": "xxx"
+    }
+  ],
+  "store": [
+    {
+      "id": 1,
+      "label": "xxx"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "label": "xxx",
+      "storeCode": 1
+    }
+  ],
+  "payment-status": [
+    {
+      "id": 1,
+      "label": "xxx"
+    }
+  ]
 }
