@@ -253,27 +253,27 @@
   "user": [
     {
       "id": 1,
-      "label": "ユーザxxx",
+      "label": "山田",
       "storeCode": 1
     },
     {
       "id": 2,
-      "label": "ユーザxxx",
+      "label": "鈴木",
       "storeCode": 1
     },
     {
       "id": 3,
-      "label": "ユーザxxx",
+      "label": "佐藤",
       "storeCode": 2
     },
     {
       "id": 4,
-      "label": "ユーザxxx",
+      "label": "高橋",
       "storeCode": 2
     },
     {
       "id": 5,
-      "label": "ユーザxxx",
+      "label": "田中",
       "storeCode": 3
     }
   ]
