@@ -223,31 +223,31 @@
   "store": [
     {
       "id": 1,
-      "label": "店舗xxx"
+      "label": "新宿店"
     },
     {
       "id": 2,
-      "label": "店舗xxx"
+      "label": "南青山店"
     },
     {
       "id": 3,
-      "label": "店舗xxx"
+      "label": "品川店"
     },
     {
       "id": 4,
-      "label": "店舗xxx"
+      "label": "大船店"
     },
     {
       "id": 5,
-      "label": "店舗xxx"
+      "label": "豊洲店"
     },
     {
       "id": 6,
-      "label": "店舗xxx"
+      "label": "豊洲スペシャル店"
     },
     {
       "id": 7,
-      "label": "店舗xxx"
+      "label": "マリンピア神戸店"
     }
   ],
   "user": [
