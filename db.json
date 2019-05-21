@@ -8,7 +8,7 @@
       "orderInfo": {
         "voucharNumber": 1,
         "userId": 1,
-        "storeCode": 1,
+        "storeCode": 90001,
         "money": {
           "payment": "1000",
           "card": "2000",
@@ -29,7 +29,7 @@
       "orderInfo": {
         "voucharNumber": 2,
         "userId": 2,
-        "storeCode": 2,
+        "storeCode": 90002,
         "money": {
           "payment": "1000",
           "card": "2000",
@@ -50,7 +50,7 @@
       "orderInfo": {
         "voucharNumber": 3,
         "userId": 3,
-        "storeCode": 3,
+        "storeCode": 90003,
         "money": {
           "payment": "1000",
           "card": "2000",
@@ -71,7 +71,7 @@
       "orderInfo": {
         "voucharNumber": 4,
         "userId": 4,
-        "storeCode": 4,
+        "storeCode": 90004,
         "money": {
           "payment": "1000",
           "card": "2000",
@@ -92,7 +92,7 @@
       "orderInfo": {
         "voucharNumber": 5,
         "userId": 5,
-        "storeCode": 5,
+        "storeCode": 90005,
         "money": {
           "payment": "1000",
           "card": "2000",
@@ -113,7 +113,7 @@
       "orderInfo": {
         "voucharNumber": 6,
         "userId": 6,
-        "storeCode": 6,
+        "storeCode": 90006,
         "money": {
           "payment": "1000",
           "card": "2000",
@@ -134,7 +134,7 @@
       "orderInfo": {
         "voucharNumber": 7,
         "userId": 7,
-        "storeCode": 7,
+        "storeCode": 90007,
         "money": {
           "payment": "1000",
           "card": "2000",
@@ -182,42 +182,42 @@
     {
       "id": 1,
       "label": "レジxxx",
-      "storeCode": 1
+      "storeCode": 90001
     },
     {
       "id": 1,
       "label": "レジxxx",
-      "storeCode": 1
+      "storeCode": 90001
     },
     {
       "id": 2,
       "label": "レジxxx",
-      "storeCode": 1
+      "storeCode": 90001
     },
     {
       "id": 3,
       "label": "レジxxx",
-      "storeCode": 1
+      "storeCode": 90001
     },
     {
       "id": 4,
       "label": "レジxxx",
-      "storeCode": 1
+      "storeCode": 90001
     },
     {
       "id": 5,
       "label": "レジxxx",
-      "storeCode": 2
+      "storeCode": 90002
     },
     {
       "id": 6,
       "label": "レジxxx",
-      "storeCode": 2
+      "storeCode": 90002
     },
     {
       "id": 7,
       "label": "レジxxx",
-      "storeCode": 3
+      "storeCode": 90003
     }
   ],
   "store": [
@@ -254,27 +254,27 @@
     {
       "id": 1,
       "label": "山田",
-      "storeCode": 1
+      "storeCode": 90001
     },
     {
       "id": 2,
       "label": "鈴木",
-      "storeCode": 1
+      "storeCode": 90001
     },
     {
       "id": 3,
       "label": "佐藤",
-      "storeCode": 2
+      "storeCode": 90002
     },
     {
       "id": 4,
       "label": "高橋",
-      "storeCode": 2
+      "storeCode": 90002
     },
     {
       "id": 5,
       "label": "田中",
-      "storeCode": 3
+      "storeCode": 90003
     }
   ]
 }
