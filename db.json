@@ -94,10 +94,7 @@
         "userId": 5,
         "storeCode": 90005,
         "money": {
-          "payment": "1000",
-          "card": "2000",
-          "point": "3000",
-          "other": "4000"
+          "payment": "1000"
         }
       },
       "media": {
@@ -112,7 +109,6 @@
       "timestamp": "2019-05-15T01:01:01.000Z",
       "orderInfo": {
         "voucharNumber": 6,
-        "userId": 6,
         "storeCode": 90006,
         "money": {
           "payment": "1000",
@@ -134,7 +130,6 @@
       "orderInfo": {
         "voucharNumber": 7,
         "userId": 7,
-        "storeCode": 90007,
         "money": {
           "payment": "1000",
           "card": "2000",
