@@ -265,6 +265,66 @@
       "id": 7,
       "label": "レジxxx",
       "storeCode": 90003
+    },
+    {
+      "id": 8,
+      "label": "レジxxx",
+      "storeCode": 90002
+    },
+    {
+      "id": 9,
+      "label": "レジxxx",
+      "storeCode": 90002
+    },
+    {
+      "id": 10,
+      "label": "レジxxx",
+      "storeCode": 90003
+    },
+    {
+      "id": 11,
+      "label": "レジxxx",
+      "storeCode": 90001
+    },
+    {
+      "id": 12,
+      "label": "レジxxx",
+      "storeCode": 90001
+    },
+    {
+      "id": 13,
+      "label": "レジxxx",
+      "storeCode": 90001
+    },
+    {
+      "id": 14,
+      "label": "レジxxx",
+      "storeCode": 90001
+    },
+    {
+      "id": 15,
+      "label": "レジxxx",
+      "storeCode": 90002
+    },
+    {
+      "id": 16,
+      "label": "レジxxx",
+      "storeCode": 90002
+    },
+    {
+      "id": 17,
+      "label": "レジxxx",
+      "storeCode": 90003
+    },
+    {
+      "id": 18,
+      "label": "レジxxx",
+      "storeCode": 90002
+    },
+    {
+      "id": 19,
+      "label": "レジxxx",
+      "storeCode": 90002
     }
   ],
   "store": [
