@@ -1,3 +1,7 @@
+# jsonserver
+
+json-server --watch db_full.json --port 3001
+
 # jsonplaceholder-sefie
 
 https://my-json-server.typicode.com/yoshinari1356/jsonplaceholder-sefie/store
